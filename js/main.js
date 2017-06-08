@@ -44,7 +44,5 @@ app.component('target', {
 			var adjustment = delta / P;
 			this.currentTemperature += adjustment;
 		}
-
-
 	}]
 });

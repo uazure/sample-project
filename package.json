@@ -4,6 +4,7 @@
   "description": "Sample project to demostrate git workflow",
   "main": "index.js",
   "scripts": {
+    "start": "static-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sergey Popov",

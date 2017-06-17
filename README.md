@@ -1,3 +1,5 @@
+2017-06-17
+
 ## Sample project ##
 
 This is a sample project that aims to demostrate how to use git for collaborative
